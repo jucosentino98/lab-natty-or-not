@@ -17,27 +17,25 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
     3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
 1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
 
-### Template
-
-```markdown
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Video de aula sobre fundamentos do sistema tasy
 
 ## 🤖 Tecnologias Utilizadas
 Liste as IAs Generativas e outras ferramentas usadas
+CHAT GPT
+D-ID
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Utilizei a falta de videos e material sobre o sistema para gerar um video auto explicativo e intuito para novos colaboradores ou para mudança de sistema.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+ O desensolvimento do projeto foi apra auxiliar e ter praticiadade sobre como utilizar e de formaamis dinamica os treinamentos sobre o sistema.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
+ Cada dia que passar percebemos o quanto somos capazes de melhorar.
+link do video gerado :https://studio.d-id.com/share?id=e1535a53ec5e065508e85d4651631d1e&utm_source=copy
 ### Exemplos e Insigths
 
 - [E-BOOK](/exemplos/E-BOOK.md)
